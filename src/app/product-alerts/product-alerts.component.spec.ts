@@ -6,6 +6,7 @@ describe('ProductAlertsComponent', () => {
   let component: ProductAlertsComponent;
   let fixture: ComponentFixture<ProductAlertsComponent>;
 
+  
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [ ProductAlertsComponent ]
